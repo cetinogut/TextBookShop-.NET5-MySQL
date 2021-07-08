@@ -1,0 +1,1 @@
+﻿Identity Scaffolding sırasında  generator hatası için  : https://clintmcmahon.com/there-was-an-error-running-the-selected-code-generator-in-net-core-5/
